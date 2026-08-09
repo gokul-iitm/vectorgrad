@@ -1,4 +1,4 @@
-# nanograd
+# vectorgrad
 
 A tensor-valued automatic differentiation engine, extending Andrej Karpathy's
 [micrograd](https://github.com/karpathy/micrograd) from scalars to NumPy
